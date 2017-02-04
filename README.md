@@ -3,13 +3,21 @@
 
 DESCRIPTION 
 
- The Social Meetup Recommender allows members to find and join groups unified by a common interest, such as Music , Adventure , Technology , Art etc.  Users enter their city and select the topic they want to meet about.  The system helps them locate a group of like-minded people to arrange a place and time to meet.  The aim of this system is to make finding social events easier filtered by location and interest.  It eliminates the need to look-up or google or facebook events, which takes more time.
+ The Social Meetup Recommender allows members to find and join groups unified by a common interest, such as Music , Adventure , Technology , Art etc. 
+ Users enter their city and select the topic they want to meet about.
+ The system helps them locate a group of like-minded people to arrange a place and time to meet.
+ The aim of this system is to make finding social events easier filtered by location and interest.
+ It eliminates the need to look-up or google or facebook events, which takes more time.
  This system automates the process of finding a social event based on city. People new to a city can easily socialize and network.
  The system interacts with the user to learn more about her/his interests and gives recommendations accordingly.
 
 
 KNOWLEDGE BASE
-NOTE: - The Knowledge base is given below in Jess. The knowledge base is determined by the user, as the user enters information, the choices are asserted, hence facts are defined and this is used as KB to make decisions.
+NOTE: - The Knowledge base is given below in Jess. 
+The knowledge base is determined by the user, as the user enters information, the choices are asserted, hence facts are defined and this is used as KB to make decisions.
+
+
+
 (deffacts question-data
 "The questions the system can ask."
 (question (ident age) (type yes-no)
@@ -51,10 +59,13 @@ Do you like BigData?"))
 TEST CASES
 
 TESTCASE 1 :
+
 ----------|WELCOME TO THE MEETUP RECOMMENDER|----------
 This software is meant to automate finding a Meetup in your local city.
 Hi! I am Alexa. Let me help you in finding a Meetup nearby.
+
 Please enter your name and then press enter key>
+
 Dexter
 Hello, Dexter.
 Welcome to the Meetup Recommender
@@ -82,6 +93,7 @@ TESTCASE 2:
 ----------|WELCOME TO THE MEETUP RECOMMENDER|----------
 This software is meant to automate finding a Meetup in your local city.
 Hi! I am Alexa. Let me help you in finding a Meetup nearby.
+
 Please enter your name and then press enter key>
 Ted
 Hello, Ted.
@@ -99,6 +111,7 @@ TESTCASE 3:
 ----------|WELCOME TO THE MEETUP RECOMMENDER|----------
 This software is meant to automate finding a Meetup in your local city.
 Hi! I am Alexa. Let me help you in finding a Meetup nearby.
+
 Please enter your name and then press enter key>
 CHarlie
 Hello, CHarlie.
