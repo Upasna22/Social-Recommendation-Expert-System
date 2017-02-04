@@ -73,9 +73,13 @@ Please answer the following questions and we will show you some awesome Meetups 
 What are you most interested in? Music, Art, Adventure, Technology music
 Let me show you some Music genres!!
 Do you like Rock & Roll? (yes or no) no
+
 Do you like Pop music? (yes or no) no
+
 Do you like Classical music? (yes or no) yes
+
 Where do you live? Chicago or New York Chicago
+
 You can go to the CLASSIC Meetup
 Description:
 CLASSICAL MUSIC MEETUPS IN CHICAGO
@@ -102,8 +106,11 @@ Please answer the following questions and we will show you some awesome Meetups 
 What are you most interested in? Music, Art, Adventure, Technology art
 Let me show you some Art genres !
 Do you like Theatre? (yes or no) no
+
 Do you like Painting? (yes or no) no
+
 Do you like Dancing? (yes or no) no
+
 Your city has only theatre , art , dancing.
 
 
@@ -120,9 +127,13 @@ Please answer the following questions and we will show you some awesome Meetups 
 What are you most interested in? Music, Art, Adventure, Technology technology
 Let me show you some Technology genres !
 Do you like BigData? (yes or no) no
+
 Do you like Cloud? (yes or no) no
+
 Do you like Machine Learning? (yes or no) yes
+
 Where do you live? Chicago or New York Las Vegas
+
 MeetUp Recommender isnt in your city yet!Choose between the following 2 cities:Chicago & New York
 Where do you live? Chicago or New York Chicago
 You can go to the MACHINELEARNING Meetup
